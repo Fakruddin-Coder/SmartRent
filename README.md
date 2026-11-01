@@ -89,5 +89,5 @@ This project includes a `render.yaml` Blueprint for one-click deployment.
 
 ## 🛠 Tech Stack
 
-- **Frontend**: React 19, Vite, TailwindCSS, React Router, Recharts, Lucide
+- **Frontend**: React 19, Vite, TailwindCSS, React Router, Recharts, Lucide,Javascript web tokens(JWT for the Authentication.
 - **Backend**: Node.js, Express, MongoDB (Mongoose), JWT, Multer, Bcrypt
